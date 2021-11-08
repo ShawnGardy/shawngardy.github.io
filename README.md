@@ -1,3 +1,6 @@
+# Following The Steps From The Book Github  For Dummies by Sara Guthals And Phil Haack. The isbn is 978-1119572671. 
+To Be Specific These Are The Steps From Pages Chapter 4 Under The Section "Setting Up a Personal Website Repo"(pages66-69)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ShawnGardy/shawngardy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
