@@ -1,5 +1,6 @@
-# Following The Steps From The Book Github  For Dummies by Sara Guthals And Phil Haack. The isbn is 978-1119572671. 
-To Be Specific These Are The Steps From Pages Chapter 4 Under The Section "Setting Up a Personal Website Repo"(pages66-69)
+# Turning A Project Repo Into A Website And Setting Up A Personal Website Repo
+Following The Steps From The Book Github  For Dummies by Sara Guthals And Phil Haack. The isbn is 978-1119572671. 
+To Be Specific These Are The Steps From Pages Chapter 4 Under The Section "Setting Up a Personal Website Repo"(pages64-69)
 
 ## Welcome to GitHub Pages
 
